@@ -1,4 +1,4 @@
-# Tableau-Projects
+# AirBnB Tableau Dashboard
 # 📊 From Raw Airbnb Data to Investment Decisions | Tableau Dashboard
 
 If someone wanted to start an Airbnb business, the real question isn’t:
