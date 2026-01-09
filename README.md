@@ -60,6 +60,10 @@ This dashboard helps answer a critical investor question:
 - Translating raw data into investment insights
 
 ---
+## 📊 Dashboard Preview
+![Dashboard Image](AirBnbDashboard.png)
+
+---
 
 ## 🔗 Interactive Dashboard
 
