@@ -61,7 +61,7 @@ This dashboard helps answer a critical investor question:
 
 ---
 ## 📊 Dashboard Preview
-![Dashboard Image](AirBnbDashboard.png)
+![Dashboard Image]<img width="1920" height="1031" alt="AirBnb Dashboard" src="https://github.com/user-attachments/assets/aed1d0ff-87db-42b9-94ea-f151450feab7" />
 
 ---
 
